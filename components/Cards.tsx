@@ -1,5 +1,5 @@
 "use client";
-import { Card, Grid, Row, Text} from "@nextui-org/react";
+import { Card, Grid, Row, Text } from "@nextui-org/react";
 import Image from 'next/image';
 const Cards = () => {
   const list = [
